@@ -1,3 +1,5 @@
+# ARCHIVO MODIFICADO
+
 # TAREA CONJUNTOS GESTIÓN DE INVITADOS
 # Imagina que estás organizando una fiesta y necesitas gestionar la lista de invitados. 
 # Tienes varias listas con los nombres de las personas que han confirmado su asistencia a diferentes actividades previas a la fiesta (por ejemplo, una cena, una sesión de juegos, etc.). 
